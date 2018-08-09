@@ -2,3 +2,27 @@
     height: 150px; width: 150px;
 
 }
+.button2 {
+    height: 150px; width: 150px;
+
+}
+.button3 {
+    height: 150px; width: 150px;
+
+}
+.button4 {
+    height: 150px; width: 150px;
+
+}
+ul.imageList {
+    display: block;
+    margin: 0 auto;
+    width: 85%;
+    padding: 0;
+    white-space: nowrap;
+}
+.imageList li {
+    display: inline-block;
+    margin: 0 auto;
+    width: 25%;
+}
